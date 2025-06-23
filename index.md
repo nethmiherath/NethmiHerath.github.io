@@ -13,12 +13,7 @@ I'm passionate about applied mathematics, data analysis, and scientific research
   <a href="research.md" style="display:inline-block; padding:10px 20px; margin:5px; background:#005a9c; color:white; text-decoration:none; border-radius:6px;">🔬 Research</a>
   <a href="teaching.md" style="display:inline-block; padding:10px 20px; margin:5px; background:#006d5b; color:white; text-decoration:none; border-radius:6px;">👩‍🏫 Teaching</a>
   <a href="contact.md" style="display:inline-block; padding:10px 20px; margin:5px; background:#9c5a00; color:white; text-decoration:none; border-radius:6px;">📬 Contact</a>
-  <a href="assets/Nethmi_Herath_CV.pdf" target="_blank" style="display:inline-block; padding:10px 20px; margin:5px; background:#4CAF50; color:white; text-decoration:none; border-radius:6px;">📄 CV</a>
 </div>
-
-[Research →](research.md)
-[Teaching →](Teaching.md)
-[Contact →](contact.md)
 
 Here are a few snapshots from my academic journey.  
 [See full gallery →](photos.md)
