@@ -9,12 +9,6 @@ I’m a first-year graduate student at the University of Idaho. I hold a BSc (Ho
 
 I'm passionate about applied mathematics, data analysis, and scientific research.
 
-<div style="margin-top: 20px;">
-  <a href="research.md" style="display:inline-block; padding:10px 20px; margin:5px; background:#6a0dad; color:white; text-decoration:none; border-radius:6px;">🔬 Research</a>
-  <a href="teaching.md" style="display:inline-block; padding:10px 20px; margin:5px; background:#6a0dad; color:white; text-decoration:none; border-radius:6px;">👩‍🏫 Teaching</a>
-  <a href="contact.md" style="display:inline-block; padding:10px 20px; margin:5px; background:#6a0dad; color:white; text-decoration:none; border-radius:6px;">📬 Contact</a>
-</div>
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   [🔬 Research](research.md)
   [👩‍🏫 Teaching](teaching.md)
