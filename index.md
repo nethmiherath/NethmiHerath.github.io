@@ -11,8 +11,11 @@ I'm passionate about applied mathematics, data analysis, and scientific research
 
 
   [🔬 Research](research.md)
+  
   [👩‍🏫 Teaching](teaching.md)
+  
   [📬 Contact](contact.md)
+  
   [📄 Download My CV](assets/Nethmi_Herath_CV.pdf)
 
 Here are a few snapshots from my academic journey.  
