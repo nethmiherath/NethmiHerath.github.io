@@ -6,6 +6,6 @@ title: Contact
 
 # Get in Touch
 
-- 📧 Email: yourname@vandals.uidaho.edu
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 Email: hera1488@vandals.uidaho.edu; nethmiherath@uidaho.edu
+- 🔗 [LinkedIn](https://linkedin.com/in/nethmih)
 - 💻 [GitHub](https://github.com/yourusername)
