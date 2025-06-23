@@ -9,13 +9,13 @@ I’m a first-year graduate student at the University of Idaho. I hold a BSc (Ho
 
 I'm passionate about applied mathematics, data analysis, and scientific research.
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+
   [🔬 Research](research.md)
   [👩‍🏫 Teaching](teaching.md)
   [📬 Contact](contact.md)
   [📸 Photos](photos.md)
   [📄 Download My CV](assets/Nethmi_Herath_CV.pdf)
-</div>
+
 Here are a few snapshots from my academic journey.  
 [See full gallery →](photos.md)
 
