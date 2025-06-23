@@ -21,3 +21,6 @@ Here are a few snapshots from my academic journey.
 <img src="assets/profile.jpg" alt="Profile" style="max-width: 100%; height: auto; border-radius: 8px; margin: 10px 0;" />
 
 [📄 Download My CV](assets/Nethmi_Herath_CV.pdf){:target="_blank"}
+<a href="assets/Nethmi_Herath_CV.pdf" target="_blank" style="display:inline-block; padding:10px 15px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:5px; margin-top:10px;">
+📄 Download My CV
+</a>
