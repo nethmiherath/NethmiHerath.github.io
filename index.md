@@ -2,20 +2,6 @@
 layout: default
 title: Home
 ---
-<!-- Floating Navigation Bar -->
-<div style="position: fixed; top: 0; width: 100%; background-color: #6a0dad; padding: 10px 0; text-align: center; z-index: 999;">
-  <a href="index.md" style="color: white; margin: 0 15px; text-decoration: none; font-weight: bold;">🏠 Home</a>
-  <a href="research.md" style="color: white; margin: 0 15px; text-decoration: none; font-weight: bold;">🔬 Research</a>
-  <a href="teaching.md" style="color: white; margin: 0 15px; text-decoration: none; font-weight: bold;">👩‍🏫 Teaching</a>
-  <a href="photos.md" style="color: white; margin: 0 15px; text-decoration: none; font-weight: bold;">📸 Photos</a>
-  <a href="contact.md" style="color: white; margin: 0 15px; text-decoration: none; font-weight: bold;">📬 Contact</a>
-  <a href="assets/Nethmi_Herath_CV.pdf" target="_blank" style="color: white; margin: 0 15px; text-decoration: none; font-weight: bold;">📄 CV</a>
-</div>
-
-<!-- Spacer to prevent content from hiding behind nav -->
-<div style="height: 60px;"></div>
-
-<div style="margin-top: 20px;">
 
 # Hello, I'm Nethmi 👋
 
