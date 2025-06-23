@@ -9,4 +9,6 @@ I’m a first-year graduate student at the University of Idaho. I hold a BSc (Ho
 
 I'm passionate about applied mathematics, data analysis, and scientific research.
 
-[Learn more →](research.md)
+[Research →](research.md)
+[Teaching →](Teaching.md)
+[Contact →](contact.md)
