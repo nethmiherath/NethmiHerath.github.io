@@ -2,15 +2,15 @@
 
 Here are some of the courses I have assisted or taught:
 
-##**University of Idaho** 
-
+##University of Idaho
+**DEpartment of Mathematics and Statistics**
 ## 👩‍🏫 Teaching Assistant
 - **MATH 160: Survey of Calculus** – Teaching Assistant, Fall 2024
 - **MATH 175: Calculus II** – Grading Assistant, Spring 2025
   
 --- 
 
-##**Rajarata University of Sri Lanka**
+##Rajarata University of Sri Lanka**
 
 **Department of Physical Science**, Faculty of Applied Sciences  
   
