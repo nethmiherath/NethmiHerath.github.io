@@ -10,7 +10,7 @@ title: Contact
   <a href="mailto:nethmiherath@uidaho.edu">nethmiherath@uidaho.edu</a>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; gap:12px; font-size:24px">  
+<div style="display: flex; align-items: center; gap:12px; font-size:24px">  
   <img src="assets/linkedin.png" alt="Profile" style="width: 20px;" />
   <a href="https://linkedin.com/in/nethmih">LinkedIn</a>
 </div>
