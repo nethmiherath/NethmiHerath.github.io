@@ -9,25 +9,16 @@ Here are some of the courses I have assisted or taught:
   
 --- 
 **Rajarata University of Sri Lanka**
+**Department of Physical Science**, Faculty of Applied Sciences  
   
 ## 👩‍🏫 Teaching Assistant  
-**Department of Physical Science**, Faculty of Applied Sciences  
-**Rajarata University of Sri Lanka**  
-**Period**: From 28.08.2023 – Present  
-
 **Courses Taught**:
 - Time Series  
 - Probability Theory  
 - Introduction to Probability Theory  
 - Introduction to R / Python Statistical Language
 
----
-
 ## 👩‍🏫 Tutor  
-**Department of Physical Science**, Faculty of Applied Sciences  
-**Rajarata University of Sri Lanka**  
-**Period**: From 15.06.2022 – 25.08.2023  
-
 **Courses Assisted**:
 - Time Series  
 - Real Analysis  
@@ -43,7 +34,6 @@ Here are some of the courses I have assisted or taught:
 ## 👩‍🏫 Part-Time Tutor – B.Sc. (External) Degree Programs  
 **Department of Physical Science**, Faculty of Applied Sciences  
 **Rajarata University of Sri Lanka**  
-**Period**: From 01.02.2023 – Present  
 
 **Courses Taught**:
 - Mathematical Analysis  
