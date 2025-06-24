@@ -1,4 +1,3 @@
-# photos.md
 ---
 layout: default
 title: Photos
