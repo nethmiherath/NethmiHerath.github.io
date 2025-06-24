@@ -11,8 +11,7 @@ title: Contact
 </div>
 
 <div style="display: flex; align-items: center; justify-content: center; gap:12px; font-size:24px">  
-  <img src="assets/linkedin.png" alt="Profile" style="width: 20px;" /> 
-  [LinkedIn](https://linkedin.com/in/nethmih)
+  <img src="assets/linkedin.png" alt="Profile" style="width: 20px;" />
   <a href="https://linkedin.com/in/nethmih">LinkedIn</a>
 </div>
   
