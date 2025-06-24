@@ -7,7 +7,7 @@ title: Contact
 
 <div style="display: flex; align-items: center; justify-content: center; flex-gap:12px">
   <img src="assets/email.png" alt="Profile" style="width: 20px;" /> 
-  <p style="font-size:24px">nethmiherath@uidaho.edu</p>
+  <p style="font-size:24px; margin:0px;">nethmiherath@uidaho.edu</p>
 </div>
 
   
