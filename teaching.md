@@ -12,7 +12,7 @@ Here are some of the courses I have assisted or taught:
   
 --- 
 
-##Rajarata University of Sri Lanka**
+## Rajarata University of Sri Lanka
 
 **Department of Physical Science**, Faculty of Applied Sciences  
   
