@@ -19,9 +19,6 @@ I'm passionate about applied mathematics, data analysis, and scientific research
   [📄 Download My CV](assets/Nethmi_Herath_CV.pdf)
 
 Here are a few snapshots from my academic journey.  
-[See full gallery →](photos.md)
+[View gallery →](photos.md)
 
-<img src="assets/conf1.jpg" alt="Conference" style="max-width: 100%; height: auto; border-radius: 8px; margin: 10px 0;" />
-<img src="assets/lab.jpg" alt="Lab Work" style="max-width: 100%; height: auto; border-radius: 8px; margin: 10px 0;" />
-<img src="assets/profile.jpg" alt="Profile" style="max-width: 100%; height: auto; border-radius: 8px; margin: 10px 0;" />
 
