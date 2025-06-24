@@ -4,7 +4,7 @@ Here are some of the courses I have assisted or taught:
 
 **University of Idaho** 
 
-**Teaching Assistant**:
+## 👩‍🏫 Teaching Assistant
 - **MATH 160: Survey of Calculus** – Teaching Assistant, Fall 2024
 - **MATH 175: Calculus II** – Grading Assistant, Spring 2025
   
