@@ -7,5 +7,5 @@ title: Photos
 
 Here are a few snapshots of my academic journey.
 
-![Conference](assets/conf1.jpg)
-![Lab](assets/lab.jpg)
+![Conference](assets/1.jpg)
+![Lab](assets/2.jpg)
