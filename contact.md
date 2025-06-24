@@ -15,10 +15,17 @@ title: Contact
   <a href="https://linkedin.com/in/nethmih">LinkedIn</a>
 </div>
   
+<div style="display: flex; align-items: center; justify-content: center; gap:12px; font-size:24px"> 
+  <img src="assets/github.png" alt="Profile" style="width: 20px;" /> 
+  <a href="https://linkedin.com/in/nethmih">[GitHub](https://github.com/nethmiherath )</a>
+</div>
 
-<img src="assets/github.png" alt="Profile" style="width: 20px;" /> [GitHub](https://github.com/nethmiherath )
+<div style="display: flex; align-items: center; justify-content: center; gap:12px; font-size:24px">
+  <img src="assets/facebook.png" alt="Profile" style="width: 20px;" /> 
+  <a href="https://linkedin.com/in/nethmih">[Facebook](https://www.facebook.com/nethmi.herath.9674?mibextid=wwXIfr&mibextid=wwXIfr)</a>
+</div>
 
-
-<img src="assets/facebook.png" alt="Profile" style="width: 20px;" /> [Facebook](https://www.facebook.com/nethmi.herath.9674?mibextid=wwXIfr&mibextid=wwXIfr)
-  
-<img src="assets/instagram.png" alt="Profile" style="width: 20px;" /> [Instagram](https://www.instagram.com/nethmichanikaigsh=YTcxMm9yZXpueDBp&utm_source=qr)
+<div style="display: flex; align-items: center; justify-content: center; gap:12px; font-size:24px"> 
+  <img src="assets/instagram.png" alt="Profile" style="width: 20px;" /> 
+  <a href="https://linkedin.com/in/nethmih">[Instagram](https://www.instagram.com/nethmichanikaigsh=YTcxMm9yZXpueDBp&utm_source=qr)</a>
+</div>
