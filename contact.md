@@ -5,7 +5,10 @@ title: Contact
 
 # Get in Touch
 
-<img src="assets/email.png" alt="Profile" style="width: 20px;" /> nethmiherath@uidaho.edu
+<div styles="color:red">
+  <img src="assets/email.png" alt="Profile" style="width: 20px;" /> nethmiherath@uidaho.edu
+</div>
+
   
 <img src="assets/linkedin.png" alt="Profile" style="width: 20px;" /> [LinkedIn](https://linkedin.com/in/nethmih)
   
