@@ -5,7 +5,7 @@ title: Contact
 
 # Get in Touch
 
-<div styles="color:red">
+<div style="font-size:46px;">
   <img src="assets/email.png" alt="Profile" style="width: 20px;" /> nethmiherath@uidaho.edu
 </div>
 
