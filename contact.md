@@ -10,9 +10,9 @@ title: Contact
   <p style="font-size:24px; margin:0px;!importent">nethmiherath@uidaho.edu</p>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; gap:12px">  
+<div style="display: flex; align-items: center; justify-content: center; gap:12px; font-size:24px">  
   <img src="assets/linkedin.png" alt="Profile" style="width: 20px;" /> 
-  <p style="font-size:24px; margin:0px;!importent">[LinkedIn](https://linkedin.com/in/nethmih)</p>
+  [LinkedIn](https://linkedin.com/in/nethmih)
 </div>
   
 
