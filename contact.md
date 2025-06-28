@@ -27,5 +27,5 @@ title: Contact
 
 <div style="display: flex; align-items: center; gap:12px; font-size:24px"> 
   <img src="assets/instagram.png" alt="Profile" style="width: 20px;" /> 
-  <a href="https://www.instagram.com/nethmichanikaigsh=YTcxMm9yZXpueDBp&utm_source=qr">Instagram</a>
+  <a href="https://www.instagram.com/nethmichanika">Instagram</a>
 </div>
